@@ -1,0 +1,67 @@
+.border {
+  background-color: 1.5px solid transparent;
+  border-width: 200px;
+}
+
+.border:hover {
+  position: relative;
+  border: 1.5px solid white;
+}
+.nav-search:hover {
+border: 2px solid orange;
+}
+
+
+html text
+
+ <div class="category-items">
+      <a href="#"><img class="sale-item" src="images/male_items/E_ciagrate02.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+    </div>
+
+    <div class="category-heading">CHOOSE BY CATEGORY</div>
+    <div class="category-items">
+      <a href="#"><img class="sale-item" src="images/male_items/E_ciagrate02.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+      <a href="#"><img class="sale-item" src="images/male_items/Mens_ring.jpg"></a>
+    </div>
+
+let item = {
+  image: 'images/male_items/Mens_Seaside_wear.jpg',
+  rating: {
+    stars: 4.5,
+    counts: 1400,
+  },
+  company: 'UBTAN',
+  item_name: 'Summer Short Sleeve Shirt',
+  curent_price: 606 ,
+  orignal_price: 1045,
+  discount_percent: 33
+}
